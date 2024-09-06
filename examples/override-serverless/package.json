@@ -15,8 +15,8 @@
     "typescript": "~3.7.2"
   },
   "dependencies": {
-    "@aws-cdk/core": "1.68.0",
-    "@aws-cdk/aws-lambda": "1.68.0",
+    "@aws-cdk/core": "1.144.0",
+    "@aws-cdk/aws-lambda": "1.144.0",
     "serverless-infrastructure": "1.0.1"
   }
 }
