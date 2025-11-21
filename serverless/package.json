@@ -32,7 +32,7 @@
     "@aws-cdk/aws-kms": "1.68.0",
     "@types/js-yaml": "^3.12.3",
     "fs-extra": "^8.1.0",
-    "js-yaml": "^3.14.0",
+    "js-yaml": "^3.14.2",
     "source-map-support": "^0.5.17",
     "typescript": "~3.7.2"
   }
